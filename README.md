@@ -11,4 +11,7 @@ Basic navigation bar with HTML and CSS for intuitive website navigation and user
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/navigation-bar.git
+git clone https://github.com/prachinayakal/navigation-bar.git
+
+## Navigate to the project directory:
+cd navigation-bar
