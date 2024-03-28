@@ -12,6 +12,14 @@ Basic navigation bar with HTML and CSS for intuitive website navigation and user
 
 ```bash
 git clone https://github.com/prachinayakal/navigation-bar.git
-
-## Navigate to the project directory:
+```
+2. Navigate to the project directory:
 cd navigation-bar
+
+3. Open the index.html file in your web browser to view the navigation bar.
+
+## File Structure
+
+index.html: Contains the HTML markup for the navigation bar.
+styles.css: Contains the CSS styling for the navigation bar.
+   
