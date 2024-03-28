@@ -21,5 +21,6 @@ cd navigation-bar
 ## File Structure
 
 index.html: Contains the HTML markup for the navigation bar.
+
 styles.css: Contains the CSS styling for the navigation bar.
    
