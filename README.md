@@ -1,12 +1,10 @@
-# Navigation-Bar
+# Simple Navigation-Bar
 Basic navigation bar with HTML and CSS for intuitive website navigation and user experience.
-# Simple Navigation Bar
 
-This is a simple navigation bar created using HTML and CSS.
 
 ## Preview
 
-![Navigation Bar Preview](navigation_bar.gif)
+![NavigationBar-gif](https://github.com/prachinayakal/Navigation-Bar/assets/121372605/e2bc0de4-f00b-40e6-a932-eda38fd2ef7d)
 
 ## How to Use
 
